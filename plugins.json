@@ -437,6 +437,11 @@
 			"desc": "Allows your users with permissions\nto change their name/chat color!",
 			"jarName": "ChatColor.jar",
 			"configName": "ChatColor+"
-		}
+			
+			"name": "aihunter-v1-4-2",
+			"desc": "Makes an AI chase you like manhunt",
+			"zipname": "aihunter-v1-4-2.zip",
+			"configName:" "aihunter"
+ 	}
 	]
 }
